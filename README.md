@@ -3,7 +3,7 @@
 ## Created by 
  * Achraf CHEMCHAQ
  * Anass OUARDINI 
- * Moataz 
+ * Moataz Marani
 
 ## Getting Started
 
