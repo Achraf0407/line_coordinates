@@ -19,6 +19,10 @@ What things you need to install the software
  
 ## Running the tests
 Open the folder in your ide and run it  
+![paint scr 1](https://user-images.githubusercontent.com/59536320/71785016-06774d00-2ffb-11ea-89ef-ae2f16f3308c.PNG)
+ You can choose from the following colors ( Green , Blue , Black , Red , Magenta ) 
+ exemple we choose the Black color :
+ 
 
 yarn run serve 
 ```
